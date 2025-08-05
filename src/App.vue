@@ -14,6 +14,6 @@ import Footer from "./components/Footer.vue"
 </script>
 
 <style lang="scss" scoped>
-
+// person1 changes
 </style>
 
